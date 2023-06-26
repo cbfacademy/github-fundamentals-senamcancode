@@ -9,6 +9,4 @@ Either way I am _*really*_ enjoying the bootcamp and love how many different thi
 
 - I'll let the following image convey the general message about how I feel: 
 
-[I'm loving it](https://marketingweek.imgix.net/content/uploads/2010/04/McDonalds.jpg)
-
-
+[I'm loving it](/im-loving-it.png)
